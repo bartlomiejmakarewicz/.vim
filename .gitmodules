@@ -31,3 +31,11 @@
 [submodule "bundle/vim-easymotion"]
 	path = bundle/vim-easymotion
 	url = https://github.com/easymotion/vim-easymotion
+[submodule "bundle/vim-tmux"]
+	path = bundle/vim-tmux
+	url = git://github.com/tmux-plugins/vim-tmux.git
+	branch = master
+[submodule "bundle/vim-tmux-navigator"]
+	path = bundle/vim-tmux-navigator
+	url = https://github.com/christoomey/vim-tmux-navigator.git
+	branch = master
