@@ -185,3 +185,4 @@ autocmd! bufwritepost ~/.vim_runtime/my_configs.vim source ~/.vim_runtime/my_con
 
 " Map NerdTree
 map <C-t> :NERDTreeToggle<CR>
+map <leader>§ :NERDTreeFocus<CR>
